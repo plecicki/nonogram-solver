@@ -7,5 +7,8 @@ public class Game {
         while(!gameFinished) {
 
         }
+        System.out.println(BoardType.BOARD_SIZE_5X5);
+        System.out.println(BoardType.BOARD_SIZE_10X10);
+        System.out.println(BoardType.BOARD_SIZE_7X7);
     }
 }
